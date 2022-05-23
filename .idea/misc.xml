@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/CarGame/app/src/main/res/layout/activity_main.xml" value="0.5228174603174603" />
+        <entry key="..\:/AndroidProjects/CarGame/app/src/main/res/layout/game_loc.xml" value="0.5095541401273885" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.151" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.151" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/style_btn.xml" value="0.167" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/style_btn_sroke_black95.xml" value="0.2385" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/style_btn_sroke_black95_press_white.xml" value="0.151" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.151" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/drawable/style_btn_stroke_black95_press_white.xml" value="0.151" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/font/score_font.xml" value="0.2375" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/layout/car_list.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/layout/game_loc.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/CarGame/app/src/main/res/layout/score_board.xml" value="0.5" />
+        <entry key="..\:/Users/toltek/Downloads/CarGame/CarGame/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/toltek/Downloads/CarGame/CarGame/app/src/main/res/layout/car_list.xml" value="0.7963800904977375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarGame</string>
+    <string name="Start">Начать</string>
+    <string name="Back">Назад</string>
+</resources>
